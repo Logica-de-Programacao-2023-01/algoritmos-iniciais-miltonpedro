@@ -1,0 +1,8 @@
+1- Leia a temperatura dada
+2- Leia se será Fahrenheint ou Celsius
+3- Se Celsius
+4- resultado= temperatura *1.8 + 32
+5- Escreva O resultado é resultado
+6- Senão:
+7- resultado= (temperatura -32)/1.8
+8- Escreva O resultado é resultado
