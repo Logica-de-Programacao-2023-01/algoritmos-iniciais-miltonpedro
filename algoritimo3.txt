@@ -1,0 +1,6 @@
+1- Leia os números coletado
+2- Leia a quantidade de números coletados (s)
+3- Faça a soma dos números coletados (x+y=z)
+4- Escreva O resultado é resultado
+5- Faça a divisão dos números coletados (z/s)
+6- Escreva O resultado é resultado
