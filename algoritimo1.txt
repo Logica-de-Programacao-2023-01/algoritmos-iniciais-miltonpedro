@@ -1,0 +1,5 @@
+1- Leia o primeiro número
+2- Leia o segundo número
+3- Faça a soma desses dois números
+4- Escreva a soma entre os dois números
+5- Fim
