@@ -1,0 +1,12 @@
+leia lista de elementos
+elemento=x
+leia A
+leia B
+leia C
+leia D
+leia M
+leia P
+P(x)= peso de um determinado elemento 
+M=média ponderada
+M= ((AxPA)+(BxPB)+(C+PC)+(DxPD))/(PA+PB+PC+PD)
+escreva M
