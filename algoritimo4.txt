@@ -1,0 +1,8 @@
+leia lista de elementos
+leia A
+leia B
+B=fatorial
+B= Ax(A-1)x(A-2)x...2x1 
+se A for >= 1
+escreva fatorial
+senao escreva B=1
