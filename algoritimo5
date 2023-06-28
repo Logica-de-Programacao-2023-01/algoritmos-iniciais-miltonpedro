@@ -1,0 +1,11 @@
+leia lista de elementos
+leia A
+leia B
+leia C
+leia D
+leia E
+leia F
+x= pode ser A ou B ou C ou D ou E ou F
+se x = F
+entao x≠ A,B,C,D,E
+escreva x 
