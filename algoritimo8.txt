@@ -1,0 +1,7 @@
+leia triângulo
+leia A
+leia B
+A= altura do triângulo
+B= medida da base do triângulo
+area= (BxA)/2
+escreva area
