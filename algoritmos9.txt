@@ -1,0 +1,11 @@
+leia M
+leia C
+leia i
+leia t
+M= montante acumulado
+C= capital inicial
+i= taxa de juros
+t= periodo de tempo
+M= C(1+i)^t
+se C,i e t > 0
+escreva M
