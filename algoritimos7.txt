@@ -1,0 +1,8 @@
+Leia A
+A= número qualquer
+número primo= x/x e x/1
+se A/A e A/1
+ entao A= número primo
+senão
+ A= número não primo
+escreva númeo primo
